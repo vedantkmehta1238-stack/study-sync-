@@ -1,4 +1,7 @@
-# Welcome to your studysync project
+# Welcome to studysync project
+
+in this project All Your College Life, Organized & Simplified.
+StudySync is your all-in-one academic companion to manage tasks, notes, attendance and more.
 
 This project was built with freebuff
 
